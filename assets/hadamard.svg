@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170pt" height="57pt" viewBox="0 0 170 57" version="1.1">
+<defs>
+<image id="image7" width="170" height="57" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAAA5CAAAAACD7++zAAAAAmJLR0QA/4ePzL8AAAQFSURBVGiB7ZpvaFVlHMc/995zN++Wblk4WinZhExcpndlMIRyBitmgpiJUimONfLFTKlduyGzZVgkrHwRjrISRVqTxXohlFaK2WBt/qkNWmshc4gaG7Mtx7jb6cU593av98855znPI0X7vnqe8/x+3/Phuec5z597QIEqdV3XdX2La6OQYbQOAM21XUq1HAXaXdu09gMbnjQqilB/OizFprsbWGKieqVYZlL5CknBilG9JZ8ee01SsKIHwNTBtdngkRSstleba8o+kRastldb4VlpweqHlTRNoarQFKoK/Y9Ql707XQqHDbl6r+bvXLScD/6UxWIhV72q5f3QJwvExt2AWQXQNQnwgMbggP3kPzbzyH0WMTnk2DfMGKwBuyuh5n0g92cvowWj9q0tb71q1lMEXx24eFpCsAYEgSsAi70wIpGU8CtjkSHC2V/bQbUK1iB7IdABsCRakKVwWGKwF4r9MPwbGN0rFVWqvAbgWR3+I6gdADnz+TejalACPFQHFPjg6iUn2ffOmEeZfu3WTAKaMarKysx6rFPvLE3c5vx+PjnZc+Lu8esN/qePKQT8RxrF/vh6DPX5vYmB5xYnJ+tFaqBSSyOYUI+hNrYl9qqDSUyRDNT97wC3nScOdeRM2py1H6VpaNwule0mGajf9QGlwNV+GzlNTSqJ0krLis1VQaAz1vD4tsRFV3tdOouH74m+Afp/kY0XL604C4Z7wUD9MdaQX5T4rF5J5zD39PEus3hGLWoQ6EwxV7W02HSon6jKOOTKI8cFuFJked3OVYvW78tA6uh4zSJLuwMTcKYHrtkZVYnaM7wHiipmnztxObnR0fGaVZa2Jlq65HNqCfBYeWiI9Qd6LlbnNryc1Nr8/a/PbXTsKZZlqbaBAIGRbg8PTuoV0YuV+q5YwH79WwHb+Ky95n8BLjfXq5fuusGC3PnTuNDGcndeVhLcXBdM7wXQ3uo5AH0dAzdgEqEnyL7EUF9o+KtoDNh0/zMRGCoBZj/KUalkSRJ6ANbsyy2sAgJ17c3mJf8RX+MpeVipJITaelc1tdOgpjBkXvF/VvpetRiBxxevDIFCqOOjB/sKq5hZ+9U3xgV/U8WLW8uDmbNSa8VEJF7pFm0ID6tI/cehxlDeDqOW9fmyJ06ytVNkX9b1dkJvnUwfKXq8dig8780tTcZCzN+8ki88WYFDIkaXd9iNFH2vRurZ7nvdKM9dCfl5AboFvWxKeAo43MOHvUaxx2Mo5e/v6HgtY5bw+erEtvAb1nd0crzmMktMsTXA7vHrg4ODw2NfOkq/KSu6BlCi+OWKe0lartxKTaGq0BSqCin6HmDnRoisc/1J0Eu1wO1mRdWnC3OApa5RZ8wBGDdmxb8BPng2Fi8B+v4AAAAASUVORK5CYII="/>
+<mask id="mask0">
+<use xlink:href="#image7"/>
+</mask>
+<image id="image6" width="170" height="57" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAAA5CAIAAAAp5ic4AAAABmJLR0QA/wD/AP+gvaeTAAAAMklEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFwYcccAAZhZGcEAAAAASUVORK5CYII="/>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="170" height="57" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<use xlink:href="#image6" mask="url(#mask0)"/>
+</g>
+</svg>
